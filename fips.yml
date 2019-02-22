@@ -1,0 +1,11 @@
+#
+# fips-vhacd
+#
+---
+exports:
+    header-dirs: 
+      - ./vhacd/public
+
+    modules:
+      vhacd: .
+
